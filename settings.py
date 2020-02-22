@@ -28,7 +28,7 @@ VERTICAL_SPACING = 0
 BOTH_SPACING = 0
 FADE_DURATION = 1
 FONT_SIZE = 10
-PATH = "C:\\Users\\Antoine.Chauvin\\Downloads\\Projet-Keylog\\keyboard keys\\clavier"
+PATH = "PATH"
 
 KEYS = {Key.alt:"Key.alt",
 Key.alt_l:"Key.alt_l",
