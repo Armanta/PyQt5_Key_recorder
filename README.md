@@ -29,6 +29,8 @@ Documentation
 
 Coming soon...
 
-Suggestions? Corrections? Pull requests?
+Suggestions? Bugs? Pull requests?
 ===============
-[![Join our server](https://img.shields.io/discord/308323056592486420.svg)](https://discordapp.com/invite/zcWp9sC) 
+[![Join our server](https://img.shields.io/discord/308323056592486420.svg)](https://discordapp.com/invite/zcWp9sC)
+
+Known bugs: missing path, missing keys
