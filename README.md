@@ -17,15 +17,15 @@ Librairies
 - https://pypi.org/project/pynput/
 
 Python Version
---------------
+===============
 
 - 3.8
 
 Documentation
--------------
+===============
 
 Coming soon...
 
 Suggestions? Corrections? Pull requests?
-----------------------------------------
-Yes Please!
+===============
+[![Join our server](https://img.shields.io/discord/308323056592486420.svg)](https://discordapp.com/invite/zcWp9sC) 
