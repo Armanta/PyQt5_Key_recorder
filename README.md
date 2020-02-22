@@ -3,6 +3,7 @@ A simple, customizable and lightweight key recorder
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 
 ![Demo](https://i.ibb.co/3BSfqr6/index.png)
 
